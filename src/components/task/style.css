@@ -1,0 +1,27 @@
+.containerTask{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.containerTask svg{
+    width: 30px;
+    height: 30px;
+}
+
+.containerTask strong{
+    font-size: 20px;
+}
+
+.buttonDone{
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+.buttonDelete{
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
